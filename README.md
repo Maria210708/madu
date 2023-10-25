@@ -28,4 +28,36 @@
     <li>Uva verde sem semente</li>
     <li>Uma barra de chocolate</li>
 </ul>
-   
+   <p>Em uma panela adicione as 2 caixas de leite condensado,</p>
+   <p>uma caixa de creme de leite, 3 colheres de leite em pó e meia colher de manteiga.</p>
+   <p>Deixe no fogo baixo e misture até engrossar. Espere esfriar e acrescente as uvas, o quanto desejar.</p>
+  
+   <p class="brilho">Deixe o brigadeiro reservado. </p>
+ 
+<H2><strong>GANACHE</strong></H2>
+<P>Derreta uma barra de chocolate em uma tigela, e incorpore uma caixa de creme de leite e</P>
+<P>misture até ficar uniforme. Está pronta a ganache.</P>
+
+<H3><strong>MONTAGEM</strong></H3>
+<p>Adicione o brigadeiro com uva, uniformemente em uma tigela de vidro (ou de sua preferência),</p>
+<P>inclua a ganache sobre o brigadeiro expalhando até cobri-lo por inteiro, coloque algumas uvas cortadas em cima da ganache para decorar e está </P>
+  <p>pronto o bombom de uva na travessa.</p>
+
+
+<div class="imagemcentralizada">
+    <img class="imagem1" src="bombom.jpg">
+        </div>
+    
+
+        <ul>
+            <h4> INGREDIENTES PARA SUBSTITUIR A UVA</h4>
+            <li class="lista"> 🍌Banana🍌</li>
+                
+            <li class="lista">🌴cocô🌴</li>
+                 
+            <li class="lista"> 🍓Morango🍓 </li>
+               
+        </ul>
+        
+        </body>
+        </html>
