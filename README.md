@@ -58,6 +58,9 @@
             <li class="lista"> 🍓Morango🍓 </li>
                
         </ul>
-        
+        <footer>
+            <img src="">
+            <p> COPYRIGHT SITE BOMBOM DE UVA- 2023</p>
+        </footer>
         </body>
         </html>
